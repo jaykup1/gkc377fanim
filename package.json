@@ -1,5 +1,5 @@
 {
-  "name": "com.jaykup1.GKC377fAnimationFiles",
+  "name": "com.jaykup1.gkc377fanimationfiles",
   "version": "1.6.3",
   "displayName": "GKC 3.77f Animation Files",
   "description": "GKC 3.77f Animation Files",
@@ -17,5 +17,8 @@
     "email": "user@noreply.com",
     "url": "https://github.com/"
   },
-  "type": "tool"
+  "type": "tool",
+  "dependencies": {
+    "com.unity.collab-proxy": "1.14.12"
+  }
 }
