@@ -1,0 +1,21 @@
+{
+  "name": "com.jaykup1.GKC377fAnimationFiles",
+  "version": "1.6.3",
+  "displayName": "GKC 3.77f Animation Files",
+  "description": "GKC 3.77f Animation Files",
+  "unity": "2020.3",
+  "documentationUrl": "https://github.com/jaykup1/Animations-Package-Files-GKC-3.77f-/index.html",
+  "changelogUrl": "https://github.com/jaykup1/Animations-Package-Files-GKC-3.77f-/CHANGELOG.md",
+  "licensesUrl": "https://github.com/jaykup1/Animations-Package-Files-GKC-3.77f-/LICENSE",
+  "keywords": [
+    "GKC",
+    "Mixamo",
+    "iClone"
+  ],
+  "author": {
+    "name": "PUBLIC",
+    "email": "user@noreply.com",
+    "url": "https://github.com/"
+  },
+  "type": "tool"
+}
